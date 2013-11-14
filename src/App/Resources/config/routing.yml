@@ -1,0 +1,4 @@
+app_hello:
+    pattern: /
+    defaults:
+        _controller: App:Hello:hello
